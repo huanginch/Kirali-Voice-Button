@@ -1,30 +1,72 @@
 {
   "groups": [
     {
-      "group_name": "cry_lyrics",
+      "group_name": "kirali_is",
       "group_description": {
-        "zh": "哀號類台詞"
+        "zh": "阿基是..."
       },
       "voice_list": [
         {
-          "name": "76b2560135486ea5570c742e365c8fa1",
-          "path": "test.mp3",
+          "name": "f431dbf1373b96a1366a98440426d933",
+          "path": "kirali_is/只要刪的夠快,沒人知道我是一隻矮袋鼠.mp3",
           "description": {
-            "zh": "Test"
+            "zh": "只要刪的夠快 沒人知道我是一隻矮袋鼠"
           }
         },
         {
-          "name": "a4643138206f52fa44932e18baedcfb4",
-          "path": "測試(124).mp3",
+          "name": "3dfd0447087c586de95ad939860525e6",
+          "path": "kirali_is/大家我本人是矮袋鼠(婆).mp3",
           "description": {
-            "zh": "測試(124)"
+            "zh": "大家我本人是矮袋鼠(婆)"
           }
         },
         {
-          "name": "123123",
-          "path": "test/測試2.mp3",
+          "name": "e3cd253e475eed301cb1d77cb92df834",
+          "path": "kirali_is/我是個笨蛋.mp3",
           "description": {
-            "zh": "測試2"
+            "zh": "我是個笨蛋"
+          }
+        },
+        {
+          "name": "1c00e80820297aab32d4fdd7d7da180d",
+          "path": "kirali_is/我是小丑.mp3",
+          "description": {
+            "zh": "我是小丑"
+          }
+        },
+        {
+          "name": "e3bdf7123677170c7b581dac32636073",
+          "path": "kirali_is/我是矮袋鼠.mp3",
+          "description": {
+            "zh": "我是矮袋鼠"
+          }
+        },
+        {
+          "name": "6c198f200dc9bfa4819d13034141007d",
+          "path": "kirali_is/我是笨蛋.mp3",
+          "description": {
+            "zh": "我是笨蛋"
+          }
+        },
+        {
+          "name": "46bf1badd8c1bb36514295da590aa4ed",
+          "path": "kirali_is/我煌吉拉力是臭小丑.mp3",
+          "description": {
+            "zh": "我煌吉拉力是臭小丑"
+          }
+        },
+        {
+          "name": "a16dfad6def226e25368c03605416ce2",
+          "path": "kirali_is/我煌基拉利是矮袋鼠喵~.mp3",
+          "description": {
+            "zh": "我煌基拉利是矮袋鼠喵~"
+          }
+        },
+        {
+          "name": "5eb6be7393ef3acb168242b004de9123",
+          "path": "kirali_is/超大聲說我是矮袋鼠.mp3",
+          "description": {
+            "zh": "超大聲說我是矮袋鼠"
           }
         }
       ]
