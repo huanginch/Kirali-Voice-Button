@@ -1116,7 +1116,7 @@
       },
       "voice_list": [
         {
-          "name": "195ffb1646aa370d5c5a40e206f8c84b",
+          "name": "53e7e84f796703c5e9477afdbd80f20c",
           "path": "11kirali_scream/IPOD沒電啦.mp3",
           "description": {
             "zh": "IPOD沒電啦"
@@ -1254,6 +1254,13 @@
           "path": "12others/完蛋了(破).mp3",
           "description": {
             "zh": "完蛋了(破)"
+          }
+        },
+        {
+          "name": "75bacd090ecf875e04efb4f8c7b5d8a4",
+          "path": "12others/對不起基腿對不起.mp3",
+          "description": {
+            "zh": "對不起基腿對不起"
           }
         },
         {
