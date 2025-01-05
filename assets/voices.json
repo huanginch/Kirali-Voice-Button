@@ -737,7 +737,7 @@
           "name": "9147cb585b9a9636105de83f732c7b16",
           "path": "07lyrics_cheer/上班加油_Vocal.mp3",
           "description": {
-            "zh": "上班加油_Vocal"
+            "zh": "上班加油"
           }
         },
         {
@@ -1039,77 +1039,77 @@
       ]
     },
     {
-      "group_name": "10kirali_has_friend",
+      "group_name": "10kirali_has_friends",
       "group_description": {
-        "zh": ""
+        "zh": "阿基有朋友合約"
       },
       "voice_list": [
         {
           "name": "bde4eca7450bda8c1a2713b5104e2476",
-          "path": "10kirali_has_friend/租咪_yuzunu.mp3",
+          "path": "10kirali_has_friends/租咪_yuzunu.mp3",
           "description": {
             "zh": "yuzunu"
           }
         },
         {
           "name": "9a77f0c6f40339333d78855eae22f285",
-          "path": "10kirali_has_friend/租咪_yuzunu別賴床.mp3",
+          "path": "10kirali_has_friends/租咪_yuzunu別賴床.mp3",
           "description": {
             "zh": "yuzunu別賴床"
           }
         },
         {
           "name": "5505e122e02645989c0114947d25c903",
-          "path": "10kirali_has_friend/租咪_yuzunu只有你是愛我的.mp3",
+          "path": "10kirali_has_friends/租咪_yuzunu只有你是愛我的.mp3",
           "description": {
             "zh": "yuzunu只有你是愛我的"
           }
         },
         {
           "name": "448731c5bbd2487a83e04a40c0bb6b00",
-          "path": "10kirali_has_friend/租咪_世界如此的美麗.mp3",
+          "path": "10kirali_has_friends/租咪_世界如此的美麗.mp3",
           "description": {
             "zh": "世界如此的美麗"
           }
         },
         {
           "name": "d46a5e78b492c1744147e3d6acdff192",
-          "path": "10kirali_has_friend/租咪_好色喔yuzunu.mp3",
+          "path": "10kirali_has_friends/租咪_好色喔yuzunu.mp3",
           "description": {
             "zh": "好色喔yuzunu"
           }
         },
         {
           "name": "a5a4ffcf189b67ddf2d1971905d7c3a4",
-          "path": "10kirali_has_friend/租咪_柚柚班放我進去.mp3",
+          "path": "10kirali_has_friends/租咪_柚柚班放我進去.mp3",
           "description": {
             "zh": "柚柚班放我進去"
           }
         },
         {
           "name": "a8f414ef63506b533fbbaf169257d4c1",
-          "path": "10kirali_has_friend/租咪_超色yuzunu.mp3",
+          "path": "10kirali_has_friends/租咪_超色yuzunu.mp3",
           "description": {
             "zh": "超色yuzunu"
           }
         },
         {
           "name": "f264543389f52450e45004ce9cbfab17",
-          "path": "10kirali_has_friend/阿雷_Rei跟Kiralli_聖誕歌.mp3",
+          "path": "10kirali_has_friends/阿雷_Rei跟Kiralli_聖誕歌.mp3",
           "description": {
-            "zh": "Rei跟Kiralli聖誕歌"
+            "zh": "Rei跟Kiralli 聖誕歌"
           }
         },
         {
           "name": "dc0c659500ded6321f8d428d16c3e474",
-          "path": "10kirali_has_friend/魯尼(拉超長音.mp3",
+          "path": "10kirali_has_friends/魯尼(拉超長音.mp3",
           "description": {
             "zh": "魯尼(拉超長音"
           }
         },
         {
           "name": "cd9d4d4fe6be08ea8ac83451a4ee1762",
-          "path": "10kirali_has_friend/魯尼妳要不要一起吃S.mp3",
+          "path": "10kirali_has_friends/魯尼妳要不要一起吃S.mp3",
           "description": {
             "zh": "魯尼妳要不要一起吃S"
           }
@@ -1122,6 +1122,13 @@
         "zh": "尖叫基"
       },
       "voice_list": [
+        {
+          "name": "195ffb1646aa370d5c5a40e206f8c84b",
+          "path": "11kirali_scream/IPOD沒電啦.mp3",
+          "description": {
+            "zh": "IPOD沒電啦"
+          }
+        },
         {
           "name": "d928f0eea9442e79e3c03d511478879b",
           "path": "11kirali_scream/媽呀.mp3",
