@@ -4,10 +4,10 @@ export default {
   light: {
     primary: '#e16f89',
     secondary: '#777777',
-    'title-text': '#e0e0e0',
+    'title-text': '#ffffff',
     background: '#fff4f4',
     'category-background': '#ffffff',
-    'btn-text': '#e0e0e0',
+    'btn-text': '#ffffff',
     accent: colors.blue.lighten2,
     error: colors.deepOrange.base,
     warning: colors.orange.base,

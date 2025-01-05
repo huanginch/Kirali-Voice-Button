@@ -1,0 +1,38 @@
+name: Auto Merge Collaborator PRs
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Get list of collaborators
+      id: collaborators
+      run: |
+        collaborators=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+          "https://api.github.com/repos/${{ github.repository }}/collaborators" | jq -r '.[].login')
+        echo "::set-output name=collaborators::$collaborators"
+
+    - name: Check if PR author is a collaborator
+      id: check-collaborator
+      run: |
+        pr_author=${{ github.event.pull_request.user.login }}
+        collaborators="${{ steps.collaborators.outputs.collaborators }}"
+        if echo "$collaborators" | grep -q "$pr_author"; then
+          echo "::set-output name=is-collaborator::true"
+        else
+          echo "::set-output name=is-collaborator::false"
+        fi
+
+    - name: Auto merge PR
+      if: steps.check-collaborator.outputs.is-collaborator == 'true'
+      run: |
+        gh pr merge ${{ github.event.pull_request.number }} --merge --admin --repo ${{ github.repository }}
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
