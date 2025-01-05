@@ -1243,6 +1243,20 @@
           }
         },
         {
+          "name": "3d64a83ab54a7dc006143ffa299be3c4",
+          "path": "12others/基腿對不起1.mp3",
+          "description": {
+            "zh": "基腿對不起1"
+          }
+        },
+        {
+          "name": "6781212eeeb35625f9acca6d1478d6d7",
+          "path": "12others/基腿對不起2.mp3",
+          "description": {
+            "zh": "基腿對不起2"
+          }
+        },
+        {
           "name": "c73e45f5f4509a46748f4d118b5f2175",
           "path": "12others/大家(大破).mp3",
           "description": {
@@ -1254,13 +1268,6 @@
           "path": "12others/完蛋了(破).mp3",
           "description": {
             "zh": "完蛋了(破)"
-          }
-        },
-        {
-          "name": "75bacd090ecf875e04efb4f8c7b5d8a4",
-          "path": "12others/對不起基腿對不起.mp3",
-          "description": {
-            "zh": "對不起基腿對不起"
           }
         },
         {
