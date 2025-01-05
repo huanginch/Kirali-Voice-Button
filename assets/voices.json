@@ -799,16 +799,9 @@
         },
         {
           "name": "3fbd9f5af2e7bcbf1f61cc706144ec08",
-          "path": "08lyrics_wake_you_up/起床-1.mp3",
+          "path": "08lyrics_wake_you_up/起床.mp3",
           "description": {
-            "zh": "起床-1"
-          }
-        },
-        {
-          "name": "9e52d26f23969c32c5c4e34ac9a64db8",
-          "path": "08lyrics_wake_you_up/起床-2.mp3",
-          "description": {
-            "zh": "起床-2"
+            "zh": "起床"
           }
         }
       ]
