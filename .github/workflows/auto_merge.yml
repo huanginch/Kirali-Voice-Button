@@ -10,24 +10,17 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Get list of collaborators
-      id: collaborators
-      run: |
-        collaborators=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          "https://api.github.com/repos/${{ github.repository }}/collaborators" | jq -r '.[].login')
-        echo "::set-output name=collaborators::$collaborators"
+      uses: actions/checkout@v3
 
     - name: Check if PR author is a collaborator
       id: check-collaborator
       run: |
         pr_author=${{ github.event.pull_request.user.login }}
-        collaborators="${{ steps.collaborators.outputs.collaborators }}"
+        collaborators="konnokai huanginch"
         if echo "$collaborators" | grep -q "$pr_author"; then
-          echo "::set-output name=is-collaborator::true"
+          echo "is-collaborator=true" >> $GITHUB_ENV
         else
-          echo "::set-output name=is-collaborator::false"
+          echo "is-collaborator=false" >> $GITHUB_ENV
         fi
 
     - name: Auto merge PR
