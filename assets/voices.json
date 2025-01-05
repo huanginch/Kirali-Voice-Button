@@ -158,7 +158,7 @@
           "name": "407538a72c0ceeb05909ac167739f451",
           "path": "02kirali_my_wife/12_あなた_單軌.MP3.mp3",
           "description": {
-            "zh": "あなた 單軌.MP3"
+            "zh": "あなた 單軌"
           }
         },
         {
@@ -426,7 +426,7 @@
           "name": "81a7aa64759347191e7573c120bc223e",
           "path": "04voice_only/瑪莉基.mp3",
           "description": {
-            "zh": "瑪莉基"
+            "zh": "馬力歐"
           }
         },
         {
@@ -539,7 +539,7 @@
           "name": "70b604c788546550ab93e9c2c6dd1ef4",
           "path": "05singing/生日快樂.mp3",
           "description": {
-            "zh": "生日快樂"
+            "zh": "生日快樂歌"
           }
         },
         {
@@ -756,13 +756,6 @@
       },
       "voice_list": [
         {
-          "name": "4c181c8be6bd8c457e2fa84457ca40d4",
-          "path": "08lyrics_wake_you_up/$@#&_()晚安.mp3",
-          "description": {
-            "zh": "$@#&_()晚安"
-          }
-        },
-        {
           "name": "931876328ece5d7034ce53e655e33745",
           "path": "08lyrics_wake_you_up/goodnight大家.mp3",
           "description": {
@@ -802,6 +795,13 @@
           "path": "08lyrics_wake_you_up/起床.mp3",
           "description": {
             "zh": "起床"
+          }
+        },
+        {
+          "name": "4c181c8be6bd8c457e2fa84457ca40d4",
+          "path": "08lyrics_wake_you_up/阿巴類bububu晚安.mp3",
+          "description": {
+            "zh": "阿巴類bububu晚安"
           }
         }
       ]
@@ -1090,7 +1090,7 @@
           "name": "f264543389f52450e45004ce9cbfab17",
           "path": "10kirali_has_friends/阿雷_Rei跟Kiralli_聖誕歌.mp3",
           "description": {
-            "zh": "Rei跟Kiralli 聖誕歌"
+            "zh": "Rei跟Kirali 聖誕歌"
           }
         },
         {
@@ -1123,10 +1123,24 @@
           }
         },
         {
+          "name": "c73e45f5f4509a46748f4d118b5f2175",
+          "path": "11kirali_scream/大家(大破).mp3",
+          "description": {
+            "zh": "大家(大破)"
+          }
+        },
+        {
           "name": "d928f0eea9442e79e3c03d511478879b",
           "path": "11kirali_scream/媽呀.mp3",
           "description": {
             "zh": "媽呀"
+          }
+        },
+        {
+          "name": "d5879ec7076eaa136374e4aa7d4c0c09",
+          "path": "11kirali_scream/完蛋了(破).mp3",
+          "description": {
+            "zh": "完蛋了(破)"
           }
         },
         {
@@ -1200,10 +1214,24 @@
           }
         },
         {
+          "name": "016691d2c5b5e952f5cad537ed4a2b0d",
+          "path": "11kirali_scream/怎麼會這樣(尖音).mp3",
+          "description": {
+            "zh": "怎麼會這樣(尖音)"
+          }
+        },
+        {
           "name": "03084a66e4fb9695168c76a9f3e73571",
           "path": "11kirali_scream/有鑰匙诶~RRRR.mp3",
           "description": {
             "zh": "有鑰匙诶~RRRR"
+          }
+        },
+        {
+          "name": "89f65c977f0ddfa916249c3a75761c86",
+          "path": "11kirali_scream/聖誕快樂(破).mp3",
+          "description": {
+            "zh": "聖誕快樂(破)"
           }
         }
       ]
@@ -1257,20 +1285,6 @@
           }
         },
         {
-          "name": "c73e45f5f4509a46748f4d118b5f2175",
-          "path": "12others/大家(大破).mp3",
-          "description": {
-            "zh": "大家(大破)"
-          }
-        },
-        {
-          "name": "d5879ec7076eaa136374e4aa7d4c0c09",
-          "path": "12others/完蛋了(破).mp3",
-          "description": {
-            "zh": "完蛋了(破)"
-          }
-        },
-        {
           "name": "0aa927a966b3feb1839e9994244d28e7",
           "path": "12others/帶著我的小貓咪來了.mp3",
           "description": {
@@ -1281,21 +1295,14 @@
           "name": "0b535b0f55fb99e1e7ae77723511d583",
           "path": "12others/怎麼了嗎_什麼都沒有發生阿.mp3",
           "description": {
-            "zh": "怎麼了嗎_什麼都沒有發生阿"
-          }
-        },
-        {
-          "name": "016691d2c5b5e952f5cad537ed4a2b0d",
-          "path": "12others/怎麼會這樣(尖音).mp3",
-          "description": {
-            "zh": "怎麼會這樣(尖音)"
+            "zh": "怎麼了嗎 什麼都沒有發生阿"
           }
         },
         {
           "name": "65f9fbfc0e6629d2d3c5451fae013824",
           "path": "12others/怎麼還不走_有什麼問題.mp3",
           "description": {
-            "zh": "怎麼還不走_有什麼問題"
+            "zh": "怎麼還不走 有什麼問題"
           }
         },
         {
@@ -1387,13 +1394,6 @@
           "path": "12others/我鼻要.mp3",
           "description": {
             "zh": "我鼻要"
-          }
-        },
-        {
-          "name": "89f65c977f0ddfa916249c3a75761c86",
-          "path": "12others/聖誕快樂(破).mp3",
-          "description": {
-            "zh": "聖誕快樂(破)"
           }
         },
         {
