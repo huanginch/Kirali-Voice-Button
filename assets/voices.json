@@ -1,72 +1,1406 @@
 {
   "groups": [
     {
-      "group_name": "kirali_is",
+      "group_name": "01kirali_is",
       "group_description": {
         "zh": "阿基是..."
       },
       "voice_list": [
         {
-          "name": "f431dbf1373b96a1366a98440426d933",
-          "path": "kirali_is/只要刪的夠快,沒人知道我是一隻矮袋鼠.mp3",
-          "description": {
-            "zh": "只要刪的夠快 沒人知道我是一隻矮袋鼠"
-          }
-        },
-        {
-          "name": "3dfd0447087c586de95ad939860525e6",
-          "path": "kirali_is/大家我本人是矮袋鼠(婆).mp3",
-          "description": {
-            "zh": "大家我本人是矮袋鼠(婆)"
-          }
-        },
-        {
-          "name": "e3cd253e475eed301cb1d77cb92df834",
-          "path": "kirali_is/我是個笨蛋.mp3",
-          "description": {
-            "zh": "我是個笨蛋"
-          }
-        },
-        {
-          "name": "1c00e80820297aab32d4fdd7d7da180d",
-          "path": "kirali_is/我是小丑.mp3",
-          "description": {
-            "zh": "我是小丑"
-          }
-        },
-        {
-          "name": "e3bdf7123677170c7b581dac32636073",
-          "path": "kirali_is/我是矮袋鼠.mp3",
+          "name": "3680e4adc607113d02a4171e8ac66950",
+          "path": "01kirali_is/01我是矮袋鼠.mp3",
           "description": {
             "zh": "我是矮袋鼠"
           }
         },
         {
-          "name": "6c198f200dc9bfa4819d13034141007d",
-          "path": "kirali_is/我是笨蛋.mp3",
+          "name": "3dfd0447087c586de95ad939860525e6",
+          "path": "01kirali_is/02大家我本人是矮袋鼠(婆).mp3",
           "description": {
-            "zh": "我是笨蛋"
+            "zh": "大家我本人是矮袋鼠(婆)"
           }
         },
         {
-          "name": "46bf1badd8c1bb36514295da590aa4ed",
-          "path": "kirali_is/我煌吉拉力是臭小丑.mp3",
+          "name": "f431dbf1373b96a1366a98440426d933",
+          "path": "01kirali_is/03只要刪的夠快,沒人知道我是一隻矮袋鼠.mp3",
           "description": {
-            "zh": "我煌吉拉力是臭小丑"
+            "zh": "只要刪的夠快 沒人知道我是一隻矮袋鼠"
           }
         },
         {
-          "name": "a16dfad6def226e25368c03605416ce2",
-          "path": "kirali_is/我煌基拉利是矮袋鼠喵~.mp3",
+          "name": "2138db1f9bf05a7e7564f8dfc280c3a9",
+          "path": "01kirali_is/04我煌基拉利是矮袋鼠喵~.mp3",
           "description": {
             "zh": "我煌基拉利是矮袋鼠喵~"
           }
         },
         {
           "name": "5eb6be7393ef3acb168242b004de9123",
-          "path": "kirali_is/超大聲說我是矮袋鼠.mp3",
+          "path": "01kirali_is/05超大聲說我是矮袋鼠.mp3",
           "description": {
             "zh": "超大聲說我是矮袋鼠"
+          }
+        },
+        {
+          "name": "1c00e80820297aab32d4fdd7d7da180d",
+          "path": "01kirali_is/06我是小丑.mp3",
+          "description": {
+            "zh": "我是小丑"
+          }
+        },
+        {
+          "name": "46bf1badd8c1bb36514295da590aa4ed",
+          "path": "01kirali_is/07我煌基拉利是臭小丑.mp3",
+          "description": {
+            "zh": "我煌基拉利是臭小丑"
+          }
+        },
+        {
+          "name": "6c198f200dc9bfa4819d13034141007d",
+          "path": "01kirali_is/08我是笨蛋.mp3",
+          "description": {
+            "zh": "我是笨蛋"
+          }
+        },
+        {
+          "name": "e3cd253e475eed301cb1d77cb92df834",
+          "path": "01kirali_is/09我是個笨蛋.mp3",
+          "description": {
+            "zh": "我是個笨蛋"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "02kirali_my_wife",
+      "group_description": {
+        "zh": "小煌 / 寶寶煌"
+      },
+      "voice_list": [
+        {
+          "name": "0152cc4159bbb8b2a4039e297728e2c0",
+          "path": "02kirali_my_wife/01_Kirali_5ma13.mp3",
+          "description": {
+            "zh": "5ma13次"
+          }
+        },
+        {
+          "name": "590c967ce11c4a1d6fb73dd21640ff77",
+          "path": "02kirali_my_wife/02_5ma_88.mp3",
+          "description": {
+            "zh": "5ma 88"
+          }
+        },
+        {
+          "name": "a593db639d61afa64bda676a65053bab",
+          "path": "02kirali_my_wife/03_5ma_meow.mp3",
+          "description": {
+            "zh": "5ma meow"
+          }
+        },
+        {
+          "name": "61a7694f22ab7a8b277e594a1d0cf32d",
+          "path": "02kirali_my_wife/04_5ma.MP3",
+          "description": {
+            "zh": "5ma"
+          }
+        },
+        {
+          "name": "382032429089c1b5afeb809cb8fb2f00",
+          "path": "02kirali_my_wife/05_ASMR-5ma.mp3",
+          "description": {
+            "zh": "ASMR 5ma"
+          }
+        },
+        {
+          "name": "aadf43de975cfe8f65f93bb456c30d2b",
+          "path": "02kirali_my_wife/06_kirali_小煌新婚三問.mp3",
+          "description": {
+            "zh": "小煌新婚三問"
+          }
+        },
+        {
+          "name": "bbf86ab2cf7e00370fff37a5b153582e",
+          "path": "02kirali_my_wife/07_Darling,Would_you_like_dinner_a_bath_or_me_2.MP3",
+          "description": {
+            "zh": "Darling, Would you like dinner a bath or me"
+          }
+        },
+        {
+          "name": "c6f8bbe2d5deb6d25105cac546223577",
+          "path": "02kirali_my_wife/08_Good_Morning.mp3",
+          "description": {
+            "zh": "Good Morning"
+          }
+        },
+        {
+          "name": "58ddec36ac20301e812fc3e696b89d2d",
+          "path": "02kirali_my_wife/09_股摸零(剛睡醒).mp3",
+          "description": {
+            "zh": "股摸零(剛睡醒)"
+          }
+        },
+        {
+          "name": "003b0237cdcd4b7a0f968a67eaf40510",
+          "path": "02kirali_my_wife/10_おはよう_こんばんは_Vocal.mp3",
+          "description": {
+            "zh": "おはよう こんばんは"
+          }
+        },
+        {
+          "name": "b55b019b7fda0719287caa43ec83abd6",
+          "path": "02kirali_my_wife/11_sneeze.mp3",
+          "description": {
+            "zh": "sneeze"
+          }
+        },
+        {
+          "name": "407538a72c0ceeb05909ac167739f451",
+          "path": "02kirali_my_wife/12_あなた_單軌.MP3.mp3",
+          "description": {
+            "zh": "あなた 單軌.MP3"
+          }
+        },
+        {
+          "name": "3fd4d555a4127353a6ab8529afcc1a2b",
+          "path": "02kirali_my_wife/13_旦那様とのラブラブ・ラブソング.mp3",
+          "description": {
+            "zh": "旦那様とのラブラブ・ラブソング"
+          }
+        },
+        {
+          "name": "bc94da282b5830f07482b3d495928098",
+          "path": "02kirali_my_wife/14_我要抱抱.mp3",
+          "description": {
+            "zh": "我要抱抱"
+          }
+        },
+        {
+          "name": "e16754fb15f55c14dead4d6d431b8454",
+          "path": "02kirali_my_wife/15_真的你們要相信我.mp3",
+          "description": {
+            "zh": "真的你們要相信我"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "03kirali_snp",
+      "group_description": {
+        "zh": "阿基整天SNP"
+      },
+      "voice_list": [
+        {
+          "name": "a833da1e58d4ea213430c42a3db96c78",
+          "path": "03kirali_snp/01加油你大得出來的.mp3",
+          "description": {
+            "zh": "加油你大得出來的"
+          }
+        },
+        {
+          "name": "50ba262e0a551f4567180b4b1724317f",
+          "path": "03kirali_snp/02大便.mp3",
+          "description": {
+            "zh": "大便"
+          }
+        },
+        {
+          "name": "de85091219dbd4e9a8a75f8f4d85e45d",
+          "path": "03kirali_snp/03大便抱抱.mp3",
+          "description": {
+            "zh": "大便抱抱"
+          }
+        },
+        {
+          "name": "ba8b37312a8fb5b7dbaf21307bd435cf",
+          "path": "03kirali_snp/04好臭喔.mp3",
+          "description": {
+            "zh": "好臭喔"
+          }
+        },
+        {
+          "name": "3d9695b12365c75e1579946079b4efaf",
+          "path": "03kirali_snp/05不要走我要吸你的屁屁.mp3",
+          "description": {
+            "zh": "不要走我要吸你的屁屁"
+          }
+        },
+        {
+          "name": "bcd9ce24a3031a3feb9aec928004c85c",
+          "path": "03kirali_snp/06你們屁股很臭.mp3",
+          "description": {
+            "zh": "你們屁股很臭"
+          }
+        },
+        {
+          "name": "9576cf8d4616c0c9f922db0f1cffacdd",
+          "path": "03kirali_snp/07放狗屁.mp3",
+          "description": {
+            "zh": "放狗屁"
+          }
+        },
+        {
+          "name": "a534132fed9c2b682f1efdb8c2e46825",
+          "path": "03kirali_snp/08屁眼派對.mp3",
+          "description": {
+            "zh": "屁眼派對"
+          }
+        },
+        {
+          "name": "88fee9e0d0354211e6058d498e4cb16d",
+          "path": "03kirali_snp/09屁眼派對(完整版).mp3",
+          "description": {
+            "zh": "屁眼派對(完整版)"
+          }
+        },
+        {
+          "name": "e8ac1fa4f09870c726361e9621b71602",
+          "path": "03kirali_snp/10妳們腋下臭臭的.mp3",
+          "description": {
+            "zh": "妳們腋下臭臭的"
+          }
+        },
+        {
+          "name": "ad190a74315a98629c159d4e31091f39",
+          "path": "03kirali_snp/11腋下好香.mp3",
+          "description": {
+            "zh": "腋下好香"
+          }
+        },
+        {
+          "name": "b74d4be00d563fa7783b693ec9c298cf",
+          "path": "03kirali_snp/12洗鼻涕給妳們聽.mp3",
+          "description": {
+            "zh": "洗鼻涕給妳們聽"
+          }
+        },
+        {
+          "name": "54cf3d9f4080741100f5a3c3569b0d8a",
+          "path": "03kirali_snp/13吵尛.MP3",
+          "description": {
+            "zh": "吵尛"
+          }
+        },
+        {
+          "name": "38b0553cb21e830a41fd8048377bcc22",
+          "path": "03kirali_snp/14媽的.mp3",
+          "description": {
+            "zh": "媽的"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "04voice_only",
+      "group_description": {
+        "zh": "純聲 / 叫聲 / 笑聲 / 哭聲"
+      },
+      "voice_list": [
+        {
+          "name": "62b88190fdbb5b3ca9215d816d46da51",
+          "path": "04voice_only/huh.mp3",
+          "description": {
+            "zh": "huh"
+          }
+        },
+        {
+          "name": "1c78a72fa5f559a149239ec6f27c1f13",
+          "path": "04voice_only/Kirali_Sheep_braying.mp3",
+          "description": {
+            "zh": "羊叫"
+          }
+        },
+        {
+          "name": "619b0e9da1f4665271a699a0636436bd",
+          "path": "04voice_only/Kirali_可愛生氣豹豹.mp3",
+          "description": {
+            "zh": "可愛生氣豹豹"
+          }
+        },
+        {
+          "name": "968511c7a26d2e94ed9cb3465b81c9e7",
+          "path": "04voice_only/Kirali_哀號.mp3",
+          "description": {
+            "zh": "哀號"
+          }
+        },
+        {
+          "name": "025059361ecb0767cc8c3744c3d3310d",
+          "path": "04voice_only/rrrblablablarrrr.mp3",
+          "description": {
+            "zh": "rrrblablablarrrr"
+          }
+        },
+        {
+          "name": "b3fcac1535d227b121a2006624318144",
+          "path": "04voice_only/亂叫.mp3",
+          "description": {
+            "zh": "亂叫"
+          }
+        },
+        {
+          "name": "196c7471ac10877ddffb5aad4a21d474",
+          "path": "04voice_only/哇(慢).mp3",
+          "description": {
+            "zh": "哇(慢)"
+          }
+        },
+        {
+          "name": "623143dbf539ef8287d719d249326e09",
+          "path": "04voice_only/哈哈哈哈EEE.mp3",
+          "description": {
+            "zh": "哈哈哈哈EEE"
+          }
+        },
+        {
+          "name": "0fac46cdd528326b2c390b36706c6a57",
+          "path": "04voice_only/哭.mp3",
+          "description": {
+            "zh": "哭"
+          }
+        },
+        {
+          "name": "978003cd1eebeffb832f5ab8bb2c15ca",
+          "path": "04voice_only/哭_媽媽.mp3",
+          "description": {
+            "zh": "哭_媽媽"
+          }
+        },
+        {
+          "name": "9b21de7f1764e910be18c5502a5eca30",
+          "path": "04voice_only/哼歌.mp3",
+          "description": {
+            "zh": "哼歌"
+          }
+        },
+        {
+          "name": "d5b1e3a5d73e2c2216a6ce7234305325",
+          "path": "04voice_only/嘔.mp3",
+          "description": {
+            "zh": "嘔"
+          }
+        },
+        {
+          "name": "9495710f8f5254cf627c1496b33b62a5",
+          "path": "04voice_only/基叫.mp3",
+          "description": {
+            "zh": "基叫"
+          }
+        },
+        {
+          "name": "2b35277ac06f5b34c8e873f9d44f2fe2",
+          "path": "04voice_only/小豬拉利.mp3",
+          "description": {
+            "zh": "小豬拉利"
+          }
+        },
+        {
+          "name": "640b9d1613cef14f773aa4ec14a351a5",
+          "path": "04voice_only/很委屈.mp3",
+          "description": {
+            "zh": "很委屈"
+          }
+        },
+        {
+          "name": "9b143bb2ba7628c00c37550f47ad4251",
+          "path": "04voice_only/把餔1.mp3",
+          "description": {
+            "zh": "把餔1"
+          }
+        },
+        {
+          "name": "79a2fda53a1a5503f98f15337d5aa372",
+          "path": "04voice_only/把餔2.mp3",
+          "description": {
+            "zh": "把餔2"
+          }
+        },
+        {
+          "name": "ebf0ae3a93dde21a19f55a7f466b1b5b",
+          "path": "04voice_only/涼了HAHA.mp3",
+          "description": {
+            "zh": "涼了HAHA"
+          }
+        },
+        {
+          "name": "81a7aa64759347191e7573c120bc223e",
+          "path": "04voice_only/瑪莉基.mp3",
+          "description": {
+            "zh": "瑪莉基"
+          }
+        },
+        {
+          "name": "4522c0f451370e9be2d8171a0e5191bb",
+          "path": "04voice_only/矮袋鼠歡呼.mp3",
+          "description": {
+            "zh": "矮袋鼠歡呼"
+          }
+        },
+        {
+          "name": "8777307ea6e9782f7d146fec862012ea",
+          "path": "04voice_only/笑聲.mp3",
+          "description": {
+            "zh": "笑聲"
+          }
+        },
+        {
+          "name": "497d5dbb02ee13272c1c216a9cb95d28",
+          "path": "04voice_only/肚子音.mp3",
+          "description": {
+            "zh": "肚子音"
+          }
+        },
+        {
+          "name": "dc12a5754f4274350d300a690cdf2684",
+          "path": "04voice_only/舔聲.mp3",
+          "description": {
+            "zh": "舔聲"
+          }
+        },
+        {
+          "name": "f90ce060051e4062d8db3b0da8a72a4b",
+          "path": "04voice_only/花生亂叫.MP3",
+          "description": {
+            "zh": "花生亂叫"
+          }
+        },
+        {
+          "name": "7a5a314d4f4945d2eccf29a76c46ae12",
+          "path": "04voice_only/豬拉利.mp3",
+          "description": {
+            "zh": "豬拉利"
+          }
+        },
+        {
+          "name": "53d12b8925a39eab399540cb46270037",
+          "path": "04voice_only/豹哭.mp3",
+          "description": {
+            "zh": "豹哭"
+          }
+        },
+        {
+          "name": "b4aeb259d9c30168c6da40460fff03d7",
+          "path": "04voice_only/超基缺德笑.mp3",
+          "description": {
+            "zh": "超基缺德笑"
+          }
+        },
+        {
+          "name": "64d4c672efc0deab06655cb500f051ca",
+          "path": "04voice_only/阿比八嘎比餔.mp3",
+          "description": {
+            "zh": "阿比八嘎比餔"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "05singing",
+      "group_description": {
+        "zh": "唱歌"
+      },
+      "voice_list": [
+        {
+          "name": "046ab736675e4cb30ccd0ce5c0bc3ed2",
+          "path": "05singing/Liar口哨.mp3",
+          "description": {
+            "zh": "Liar口哨"
+          }
+        },
+        {
+          "name": "342e580cae200f9f656b0b81062a5afa",
+          "path": "05singing/すずめ.mp3",
+          "description": {
+            "zh": "すずめ"
+          }
+        },
+        {
+          "name": "f914403d67c73207b12f35aefd4a5af8",
+          "path": "05singing/哇!!!!!!很讚!!!!!.MP3",
+          "description": {
+            "zh": "哇!!!!!!很讚!!!!!"
+          }
+        },
+        {
+          "name": "9b18f84e6b0756b2392be0b3deedb85e",
+          "path": "05singing/小星星.MP3",
+          "description": {
+            "zh": "小星星"
+          }
+        },
+        {
+          "name": "f1dfd2742c17deba06d96a02d8da7a35",
+          "path": "05singing/我不要睡覺之歌.mp3",
+          "description": {
+            "zh": "我不要睡覺之歌"
+          }
+        },
+        {
+          "name": "70b604c788546550ab93e9c2c6dd1ef4",
+          "path": "05singing/生日快樂.mp3",
+          "description": {
+            "zh": "生日快樂"
+          }
+        },
+        {
+          "name": "b63522781f1de16bf5f7c25b7a44c35c",
+          "path": "05singing/皮囊2倍速.MP3",
+          "description": {
+            "zh": "皮囊2倍速"
+          }
+        },
+        {
+          "name": "111663a0184e0fc29a5faea6f6f8c2c8",
+          "path": "05singing/阿基op.mp3",
+          "description": {
+            "zh": "阿基op"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "06lyrics_single_word",
+      "group_description": {
+        "zh": "台詞 - 單詞"
+      },
+      "voice_list": [
+        {
+          "name": "d11d50d9f0c686bca3251fc3684992d1",
+          "path": "06lyrics_single_word/OK.mp3",
+          "description": {
+            "zh": "OK"
+          }
+        },
+        {
+          "name": "76a73bd57cb7bb549960edd6f8b20d41",
+          "path": "06lyrics_single_word/OMG.mp3",
+          "description": {
+            "zh": "OMG"
+          }
+        },
+        {
+          "name": "8eb7506b1d88cbbea62d85443d9143fe",
+          "path": "06lyrics_single_word/不可以(綠.mp3",
+          "description": {
+            "zh": "不可以(綠"
+          }
+        },
+        {
+          "name": "db4d55970fef5cab7d8e8161e1cd2d32",
+          "path": "06lyrics_single_word/不會.mp3",
+          "description": {
+            "zh": "不會"
+          }
+        },
+        {
+          "name": "5777d19407f8b9618221bb04802c40f1",
+          "path": "06lyrics_single_word/什麼意思.mp3",
+          "description": {
+            "zh": "什麼意思"
+          }
+        },
+        {
+          "name": "b9cfe88c45fd56ee27ed4503c5f99933",
+          "path": "06lyrics_single_word/吼唷~.2.mp3",
+          "description": {
+            "zh": "吼唷~1"
+          }
+        },
+        {
+          "name": "a70b4ff5026dd4520428c195a1cf123d",
+          "path": "06lyrics_single_word/吼唷~.3.mp3",
+          "description": {
+            "zh": "吼唷~2"
+          }
+        },
+        {
+          "name": "2ade9945e08469c670b9de6f57fbf361",
+          "path": "06lyrics_single_word/吼唷~.mp3",
+          "description": {
+            "zh": "吼唷~3"
+          }
+        },
+        {
+          "name": "e7429537aba37ccad4e7e90ae48f44a7",
+          "path": "06lyrics_single_word/奈a安內.mp3",
+          "description": {
+            "zh": "奈a安內1"
+          }
+        },
+        {
+          "name": "787767d28061a86083708c0bbcc18464",
+          "path": "06lyrics_single_word/奈a安內2.mp3",
+          "description": {
+            "zh": "奈a安內2"
+          }
+        },
+        {
+          "name": "8048d0f90197480cfd4deb4289746e6b",
+          "path": "06lyrics_single_word/奈a安內3.mp3",
+          "description": {
+            "zh": "奈a安內3"
+          }
+        },
+        {
+          "name": "e3b7022c66920a4a7531afe58a27d647",
+          "path": "06lyrics_single_word/對不起.mp3",
+          "description": {
+            "zh": "對不起"
+          }
+        },
+        {
+          "name": "afbc344b219614a72ad93f52d86f3fe8",
+          "path": "06lyrics_single_word/怎麼可能~.mp3",
+          "description": {
+            "zh": "怎麼可能~"
+          }
+        },
+        {
+          "name": "a48d0e1fd72caa7117a2cd0b2180f694",
+          "path": "06lyrics_single_word/會.mp3",
+          "description": {
+            "zh": "會"
+          }
+        },
+        {
+          "name": "442b9a80fb89d16c18acce7bb6037c49",
+          "path": "06lyrics_single_word/有點基動.mp3",
+          "description": {
+            "zh": "有點基動"
+          }
+        },
+        {
+          "name": "04079211b87c42f86fb698201bbd90f3",
+          "path": "06lyrics_single_word/為什麼.mp3",
+          "description": {
+            "zh": "為什麼"
+          }
+        },
+        {
+          "name": "0106213f2c34c4f4403ef54eb2714a7e",
+          "path": "06lyrics_single_word/狗妹拉賽.mp3",
+          "description": {
+            "zh": "狗妹拉賽"
+          }
+        },
+        {
+          "name": "508cb4ebad15945fe3ac12502c45e407",
+          "path": "06lyrics_single_word/老公.mp3",
+          "description": {
+            "zh": "老公"
+          }
+        },
+        {
+          "name": "ea5f4e046b89b51998b504bdfa940a89",
+          "path": "06lyrics_single_word/老婆1.MP3",
+          "description": {
+            "zh": "老婆1"
+          }
+        },
+        {
+          "name": "f970207302f98059e8420e685168b248",
+          "path": "06lyrics_single_word/老婆2.mp3",
+          "description": {
+            "zh": "老婆2"
+          }
+        },
+        {
+          "name": "be6245971c49dd8708b0ec9fd0d6f0ca",
+          "path": "06lyrics_single_word/醒.mp3",
+          "description": {
+            "zh": "醒"
+          }
+        },
+        {
+          "name": "7829898fd66d88674b7b8da0ea53bc83",
+          "path": "06lyrics_single_word/鑿鑿.mp3",
+          "description": {
+            "zh": "鑿鑿"
+          }
+        },
+        {
+          "name": "ec3d31cb6ce7032f315ae0e6ec6e5a70",
+          "path": "06lyrics_single_word/非常好sexy.mp3",
+          "description": {
+            "zh": "非常好sexy"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "07lyrics_cheer",
+      "group_description": {
+        "zh": "台詞 - 鼓勵 / 加油 / 生日快樂"
+      },
+      "voice_list": [
+        {
+          "name": "9147cb585b9a9636105de83f732c7b16",
+          "path": "07lyrics_cheer/上班加油_Vocal.mp3",
+          "description": {
+            "zh": "上班加油_Vocal"
+          }
+        },
+        {
+          "name": "ee74a15158bb0b25ea06085b44bfc2a6",
+          "path": "07lyrics_cheer/生日快樂.mp3",
+          "description": {
+            "zh": "生日快樂"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "08lyrics_wake_you_up",
+      "group_description": {
+        "zh": "台詞 - 早安午安晚安打招呼"
+      },
+      "voice_list": [
+        {
+          "name": "4c181c8be6bd8c457e2fa84457ca40d4",
+          "path": "08lyrics_wake_you_up/$@#&_()晚安.mp3",
+          "description": {
+            "zh": "$@#&_()晚安"
+          }
+        },
+        {
+          "name": "931876328ece5d7034ce53e655e33745",
+          "path": "08lyrics_wake_you_up/goodnight大家.mp3",
+          "description": {
+            "zh": "goodnight大家"
+          }
+        },
+        {
+          "name": "5a033e3e22f6a64ec5b613794c39abb6",
+          "path": "08lyrics_wake_you_up/估摸泥(快).mp3",
+          "description": {
+            "zh": "估摸泥(快)"
+          }
+        },
+        {
+          "name": "3079d41e3784f18147302f48e2b2e7cd",
+          "path": "08lyrics_wake_you_up/啊哈哈goodnight.mp3",
+          "description": {
+            "zh": "啊哈哈goodnight"
+          }
+        },
+        {
+          "name": "23856a262007f2f13e27e1a79d960d41",
+          "path": "08lyrics_wake_you_up/早安午安晚安(愛睏).mp3",
+          "description": {
+            "zh": "早安午安晚安(愛睏)"
+          }
+        },
+        {
+          "name": "4082394152a6ceec5cc6788b922893a5",
+          "path": "08lyrics_wake_you_up/起來嗨.mp3",
+          "description": {
+            "zh": "起來嗨"
+          }
+        },
+        {
+          "name": "3fbd9f5af2e7bcbf1f61cc706144ec08",
+          "path": "08lyrics_wake_you_up/起床-1.mp3",
+          "description": {
+            "zh": "起床-1"
+          }
+        },
+        {
+          "name": "9e52d26f23969c32c5c4e34ac9a64db8",
+          "path": "08lyrics_wake_you_up/起床-2.mp3",
+          "description": {
+            "zh": "起床-2"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "09kirali_bullshit",
+      "group_description": {
+        "zh": "阿基屁話"
+      },
+      "voice_list": [
+        {
+          "name": "679f839680a74e3209f60167742460e2",
+          "path": "09kirali_bullshit/你也期中考我也期中考大家都期中考啊.mp3",
+          "description": {
+            "zh": "你也期中考我也期中考大家都期中考啊"
+          }
+        },
+        {
+          "name": "e6291941627c82bf1722c53f2f151549",
+          "path": "09kirali_bullshit/你們這樣會失去我的基腿.mp3",
+          "description": {
+            "zh": "你們這樣會失去我的基腿"
+          }
+        },
+        {
+          "name": "39779314125211fce189adc578393d9b",
+          "path": "09kirali_bullshit/你怎麼那麼可愛.mp3",
+          "description": {
+            "zh": "你怎麼那麼可愛"
+          }
+        },
+        {
+          "name": "694dd08dc54d6578b26a382f8d42555c",
+          "path": "09kirali_bullshit/你有沒有想我.mp3",
+          "description": {
+            "zh": "你有沒有想我"
+          }
+        },
+        {
+          "name": "284a0423c761b48114d1e5eab7c17ff1",
+          "path": "09kirali_bullshit/你為什麼要對不起.mp3",
+          "description": {
+            "zh": "你為什麼要對不起"
+          }
+        },
+        {
+          "name": "872b03e22a6e9a3b4ac982baed5ae852",
+          "path": "09kirali_bullshit/其實我超常生病.mp3",
+          "description": {
+            "zh": "其實我超常生病"
+          }
+        },
+        {
+          "name": "7c73ff4d46f958713c4dcd72435428fa",
+          "path": "09kirali_bullshit/冰在冰箱裡面的東西是不會壞掉的各位.mp3",
+          "description": {
+            "zh": "冰在冰箱裡面的東西是不會壞掉的各位"
+          }
+        },
+        {
+          "name": "eb8576a1ee0bda7640ea9a68fc75a81f",
+          "path": "09kirali_bullshit/初次見面我是煌Kirali.mp3",
+          "description": {
+            "zh": "初次見面我是煌Kirali"
+          }
+        },
+        {
+          "name": "296ad34b3724c357908d614dff721b51",
+          "path": "09kirali_bullshit/喬治維多利亞三世.mp3",
+          "description": {
+            "zh": "喬治維多利亞三世"
+          }
+        },
+        {
+          "name": "a71a9a166b873a19ec1f7a018369c5ff",
+          "path": "09kirali_bullshit/單身我也很快樂.mp3",
+          "description": {
+            "zh": "單身我也很快樂"
+          }
+        },
+        {
+          "name": "6b2d6f087a539938c99115b5d0b62028",
+          "path": "09kirali_bullshit/奈嗚他是愛我的.mp3",
+          "description": {
+            "zh": "奈嗚他是愛我的"
+          }
+        },
+        {
+          "name": "f0a79a8eb8349dbbc6aab48b2808b972",
+          "path": "09kirali_bullshit/妳們知道嗎.mp3",
+          "description": {
+            "zh": "妳們知道嗎"
+          }
+        },
+        {
+          "name": "fc7dde3bdc8ed2e1c2ddf364f041b39e",
+          "path": "09kirali_bullshit/妳嘴巴超大.mp3",
+          "description": {
+            "zh": "妳嘴巴超大"
+          }
+        },
+        {
+          "name": "989afccc5967e4317d843a097d579ff5",
+          "path": "09kirali_bullshit/妳是我的小被被.mp3",
+          "description": {
+            "zh": "妳是我的小被被"
+          }
+        },
+        {
+          "name": "2202ac2b479e0ae83709eff35f49b5a8",
+          "path": "09kirali_bullshit/威廉的妹妹_喬治_弟弟_小仙女.mp3",
+          "description": {
+            "zh": "威廉的妹妹 喬治 弟弟 小仙女"
+          }
+        },
+        {
+          "name": "d509d3cc76560fc44e749c05d07c8151",
+          "path": "09kirali_bullshit/我不sexy.mp3",
+          "description": {
+            "zh": "我不sexy"
+          }
+        },
+        {
+          "name": "b08ea787a16e362d635319166061c615",
+          "path": "09kirali_bullshit/我也是絕望捏.mp3",
+          "description": {
+            "zh": "我也是絕望捏"
+          }
+        },
+        {
+          "name": "78f2c1962e9838e48c7fed433568fc9a",
+          "path": "09kirali_bullshit/我對大家的愛.mp3",
+          "description": {
+            "zh": "我對大家的愛"
+          }
+        },
+        {
+          "name": "eeef77a6398fc0409a106454bb761d9e",
+          "path": "09kirali_bullshit/我就抖音小孩.mp3",
+          "description": {
+            "zh": "我就抖音小孩"
+          }
+        },
+        {
+          "name": "97d2cabaa925b67600e78063fbc7fa5a",
+          "path": "09kirali_bullshit/我是一個有偶包的豹豹.mp3",
+          "description": {
+            "zh": "我是一個有偶包的豹豹"
+          }
+        },
+        {
+          "name": "bc6e0564e14066d9a750a56e53b76b16",
+          "path": "09kirali_bullshit/我是不是你們最喜歡的寶呀.mp3",
+          "description": {
+            "zh": "我是不是你們最喜歡的寶呀"
+          }
+        },
+        {
+          "name": "368b1ad8ee1bf2ebdf1d88796b2eebd0",
+          "path": "09kirali_bullshit/我是基肉.mp3",
+          "description": {
+            "zh": "我是基肉"
+          }
+        },
+        {
+          "name": "890f0d4a636860e893724341f9809f88",
+          "path": "09kirali_bullshit/我是子午計畫煌kirali(夾子音).mp3",
+          "description": {
+            "zh": "我是子午計畫煌kirali(夾子音)"
+          }
+        },
+        {
+          "name": "6a0003c0437374b40825d8922ef2c182",
+          "path": "09kirali_bullshit/我智商沒有132只有10.mp3",
+          "description": {
+            "zh": "我智商沒有132只有10"
+          }
+        },
+        {
+          "name": "ebb25edd5d9304ab52e6d88627bfc8a3",
+          "path": "09kirali_bullshit/我無法接受妳這樣和我說話你這樣子缺德.mp3",
+          "description": {
+            "zh": "我無法接受妳這樣和我說話你這樣子缺德"
+          }
+        },
+        {
+          "name": "143f975fd3e28122d3b91882dc261db6",
+          "path": "09kirali_bullshit/我跟你們說我這一身都是基肉.mp3",
+          "description": {
+            "zh": "我跟你們說我這一身都是基肉"
+          }
+        },
+        {
+          "name": "7fede9730f3588ad43864d4a7c8cd865",
+          "path": "09kirali_bullshit/我跟你們講哦.mp3",
+          "description": {
+            "zh": "我跟你們講哦"
+          }
+        },
+        {
+          "name": "128345903affc40a6b1a81ebcaa8a83d",
+          "path": "09kirali_bullshit/請你們不要醬子.mp3",
+          "description": {
+            "zh": "請你們不要醬子"
+          }
+        },
+        {
+          "name": "ce890b3c00cff6745347babe5f3afa7b",
+          "path": "09kirali_bullshit/謝謝我很好看.mp3",
+          "description": {
+            "zh": "謝謝我很好看"
+          }
+        },
+        {
+          "name": "8664bd7f57ebc3d34791e32d9f947b42",
+          "path": "09kirali_bullshit/那個哭哭臉好可憐.mp3",
+          "description": {
+            "zh": "那個哭哭臉好可憐"
+          }
+        },
+        {
+          "name": "1c650bf6452013618a510804ad1099ec",
+          "path": "09kirali_bullshit/魚片粥是你的愛我的愛我們全部的愛.mp3",
+          "description": {
+            "zh": "魚片粥是你的愛我的愛我們全部的愛"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "10kirali_has_friend",
+      "group_description": {
+        "zh": ""
+      },
+      "voice_list": [
+        {
+          "name": "bde4eca7450bda8c1a2713b5104e2476",
+          "path": "10kirali_has_friend/租咪_yuzunu.mp3",
+          "description": {
+            "zh": "yuzunu"
+          }
+        },
+        {
+          "name": "9a77f0c6f40339333d78855eae22f285",
+          "path": "10kirali_has_friend/租咪_yuzunu別賴床.mp3",
+          "description": {
+            "zh": "yuzunu別賴床"
+          }
+        },
+        {
+          "name": "5505e122e02645989c0114947d25c903",
+          "path": "10kirali_has_friend/租咪_yuzunu只有你是愛我的.mp3",
+          "description": {
+            "zh": "yuzunu只有你是愛我的"
+          }
+        },
+        {
+          "name": "448731c5bbd2487a83e04a40c0bb6b00",
+          "path": "10kirali_has_friend/租咪_世界如此的美麗.mp3",
+          "description": {
+            "zh": "世界如此的美麗"
+          }
+        },
+        {
+          "name": "d46a5e78b492c1744147e3d6acdff192",
+          "path": "10kirali_has_friend/租咪_好色喔yuzunu.mp3",
+          "description": {
+            "zh": "好色喔yuzunu"
+          }
+        },
+        {
+          "name": "a5a4ffcf189b67ddf2d1971905d7c3a4",
+          "path": "10kirali_has_friend/租咪_柚柚班放我進去.mp3",
+          "description": {
+            "zh": "柚柚班放我進去"
+          }
+        },
+        {
+          "name": "a8f414ef63506b533fbbaf169257d4c1",
+          "path": "10kirali_has_friend/租咪_超色yuzunu.mp3",
+          "description": {
+            "zh": "超色yuzunu"
+          }
+        },
+        {
+          "name": "f264543389f52450e45004ce9cbfab17",
+          "path": "10kirali_has_friend/阿雷_Rei跟Kiralli_聖誕歌.mp3",
+          "description": {
+            "zh": "Rei跟Kiralli聖誕歌"
+          }
+        },
+        {
+          "name": "dc0c659500ded6321f8d428d16c3e474",
+          "path": "10kirali_has_friend/魯尼(拉超長音.mp3",
+          "description": {
+            "zh": "魯尼(拉超長音"
+          }
+        },
+        {
+          "name": "cd9d4d4fe6be08ea8ac83451a4ee1762",
+          "path": "10kirali_has_friend/魯尼妳要不要一起吃S.mp3",
+          "description": {
+            "zh": "魯尼妳要不要一起吃S"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "11kirali_scream",
+      "group_description": {
+        "zh": "尖叫基"
+      },
+      "voice_list": [
+        {
+          "name": "d928f0eea9442e79e3c03d511478879b",
+          "path": "11kirali_scream/媽呀.mp3",
+          "description": {
+            "zh": "媽呀"
+          }
+        },
+        {
+          "name": "faf0eadce443044e43c48fb2749f9d29",
+          "path": "11kirali_scream/尖叫01.mp3",
+          "description": {
+            "zh": "尖叫1"
+          }
+        },
+        {
+          "name": "134cb515d9e89d64ed4aaa3096903220",
+          "path": "11kirali_scream/尖叫02.mp3",
+          "description": {
+            "zh": "尖叫2"
+          }
+        },
+        {
+          "name": "d8a5b8dfe427624a174e9d0ec2dfdec6",
+          "path": "11kirali_scream/尖叫03.mp3",
+          "description": {
+            "zh": "尖叫3"
+          }
+        },
+        {
+          "name": "656b3b5654ea9dd54b1196a301021727",
+          "path": "11kirali_scream/尖叫04.mp3",
+          "description": {
+            "zh": "尖叫4"
+          }
+        },
+        {
+          "name": "638ab5e496ee6ce7d9db8d71ff8f046a",
+          "path": "11kirali_scream/尖叫05.mp3",
+          "description": {
+            "zh": "尖叫5"
+          }
+        },
+        {
+          "name": "94d3325e1041102c54ab8f0e581073e4",
+          "path": "11kirali_scream/尖叫06.mp3",
+          "description": {
+            "zh": "尖叫6"
+          }
+        },
+        {
+          "name": "f4b9ee8f2f2942874336058996314408",
+          "path": "11kirali_scream/尖叫07.mp3",
+          "description": {
+            "zh": "尖叫7"
+          }
+        },
+        {
+          "name": "8e756bf1c3c1bdd40b363267da3878b1",
+          "path": "11kirali_scream/尖叫08.mp3",
+          "description": {
+            "zh": "尖叫8"
+          }
+        },
+        {
+          "name": "41b2ff547f2dda36cc9bddaa8c40628b",
+          "path": "11kirali_scream/尖叫09.mp3",
+          "description": {
+            "zh": "尖叫9"
+          }
+        },
+        {
+          "name": "8aecf1ea0e0a7d7faea86a92250aca94",
+          "path": "11kirali_scream/尖叫10.mp3",
+          "description": {
+            "zh": "尖叫10"
+          }
+        },
+        {
+          "name": "03084a66e4fb9695168c76a9f3e73571",
+          "path": "11kirali_scream/有鑰匙诶~RRRR.mp3",
+          "description": {
+            "zh": "有鑰匙诶~RRRR"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "12others",
+      "group_description": {
+        "zh": "其他"
+      },
+      "voice_list": [
+        {
+          "name": "0c615112768e37a01d2cf0916cfcbe46",
+          "path": "12others/Love_U_8噗.mp3",
+          "description": {
+            "zh": "Love U 8噗"
+          }
+        },
+        {
+          "name": "842319cf81d6ce87440ff77ffa25da4b",
+          "path": "12others/R♡~好帥唷.mp3",
+          "description": {
+            "zh": "R♡~好帥唷"
+          }
+        },
+        {
+          "name": "fa49ffae2e437fb5e02fed1d7d9fa9e6",
+          "path": "12others/他壞掉了.mp3",
+          "description": {
+            "zh": "他壞掉了"
+          }
+        },
+        {
+          "name": "e00b872b8970ea711cc4c0a92d956493",
+          "path": "12others/哈囉小貓咪.mp3",
+          "description": {
+            "zh": "哈囉小貓咪"
+          }
+        },
+        {
+          "name": "c73e45f5f4509a46748f4d118b5f2175",
+          "path": "12others/大家(大破).mp3",
+          "description": {
+            "zh": "大家(大破)"
+          }
+        },
+        {
+          "name": "d5879ec7076eaa136374e4aa7d4c0c09",
+          "path": "12others/完蛋了(破).mp3",
+          "description": {
+            "zh": "完蛋了(破)"
+          }
+        },
+        {
+          "name": "0aa927a966b3feb1839e9994244d28e7",
+          "path": "12others/帶著我的小貓咪來了.mp3",
+          "description": {
+            "zh": "帶著我的小貓咪來了"
+          }
+        },
+        {
+          "name": "0b535b0f55fb99e1e7ae77723511d583",
+          "path": "12others/怎麼了嗎_什麼都沒有發生阿.mp3",
+          "description": {
+            "zh": "怎麼了嗎_什麼都沒有發生阿"
+          }
+        },
+        {
+          "name": "016691d2c5b5e952f5cad537ed4a2b0d",
+          "path": "12others/怎麼會這樣(尖音).mp3",
+          "description": {
+            "zh": "怎麼會這樣(尖音)"
+          }
+        },
+        {
+          "name": "65f9fbfc0e6629d2d3c5451fae013824",
+          "path": "12others/怎麼還不走_有什麼問題.mp3",
+          "description": {
+            "zh": "怎麼還不走_有什麼問題"
+          }
+        },
+        {
+          "name": "edf4c1823d29e47a345655b0fb58c6e4",
+          "path": "12others/情勒.mp3",
+          "description": {
+            "zh": "情勒"
+          }
+        },
+        {
+          "name": "981cfd38291253706c75007e39c8fa8a",
+          "path": "12others/我不相信.mp3",
+          "description": {
+            "zh": "我不相信"
+          }
+        },
+        {
+          "name": "c2ea862cabe15babe80a7a0d2c368efb",
+          "path": "12others/我也沒辦法啊.mp3",
+          "description": {
+            "zh": "我也沒辦法啊"
+          }
+        },
+        {
+          "name": "2dc4eaf7957e4143f081091d7f105259",
+          "path": "12others/我做不到.mp3",
+          "description": {
+            "zh": "我做不到"
+          }
+        },
+        {
+          "name": "683e76f126cdce514c077cba21b2376f",
+          "path": "12others/我哭了.mp3",
+          "description": {
+            "zh": "我哭了"
+          }
+        },
+        {
+          "name": "a6684774b9c09a80ea264ab2f91b5e7e",
+          "path": "12others/我好興奮.mp3",
+          "description": {
+            "zh": "我好興奮"
+          }
+        },
+        {
+          "name": "f6d79e096483dbeb0437312082af3a3e",
+          "path": "12others/我想想.mp3",
+          "description": {
+            "zh": "我想想"
+          }
+        },
+        {
+          "name": "5994c0ff569ff3f9da0c0fffc6eca176",
+          "path": "12others/我活該.mp3",
+          "description": {
+            "zh": "我活該"
+          }
+        },
+        {
+          "name": "e4df3a0973bba869e4dc6f6dfa83ac83",
+          "path": "12others/我要不行了.mp3",
+          "description": {
+            "zh": "我要不行了"
+          }
+        },
+        {
+          "name": "c1d3cd37299c08c9fb140560caa1d9f7",
+          "path": "12others/我要去考試了.mp3",
+          "description": {
+            "zh": "我要去考試了"
+          }
+        },
+        {
+          "name": "c7d4a52a0c12759fe099451d5a158324",
+          "path": "12others/我要吹直笛.mp3",
+          "description": {
+            "zh": "我要吹直笛"
+          }
+        },
+        {
+          "name": "ea5597b8228fced8a00c54d81f958365",
+          "path": "12others/我要死了.mp3",
+          "description": {
+            "zh": "我要死了"
+          }
+        },
+        {
+          "name": "f97fc4e50177f550736ea6e1f5500d2d",
+          "path": "12others/我鼻要.mp3",
+          "description": {
+            "zh": "我鼻要"
+          }
+        },
+        {
+          "name": "89f65c977f0ddfa916249c3a75761c86",
+          "path": "12others/聖誕快樂(破).mp3",
+          "description": {
+            "zh": "聖誕快樂(破)"
+          }
+        },
+        {
+          "name": "99b3a9bd5e732d3adb22e359440947aa",
+          "path": "12others/親爛.mp3",
+          "description": {
+            "zh": "親爛"
+          }
+        },
+        {
+          "name": "50d3c53facf132cd0b4a9085db9b4696",
+          "path": "12others/這畫面是可以播的嗎.mp3",
+          "description": {
+            "zh": "這畫面是可以播的嗎"
+          }
+        },
+        {
+          "name": "40d8f3844c445d9aa690161fb9be481e",
+          "path": "12others/都是個什麼意思.mp3",
+          "description": {
+            "zh": "都是個什麼意思"
           }
         }
       ]
