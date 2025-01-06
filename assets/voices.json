@@ -8,63 +8,70 @@
       "voice_list": [
         {
           "name": "3680e4adc607113d02a4171e8ac66950",
-          "path": "01kirali_is/01我是矮袋鼠.mp3",
+          "path": "01kirali_is/A01我是矮袋鼠.mp3",
           "description": {
             "zh": "我是矮袋鼠"
           }
         },
         {
           "name": "3dfd0447087c586de95ad939860525e6",
-          "path": "01kirali_is/02大家我本人是矮袋鼠(婆).mp3",
+          "path": "01kirali_is/A02大家我本人是矮袋鼠(婆).mp3",
           "description": {
             "zh": "大家我本人是矮袋鼠(婆)"
           }
         },
         {
           "name": "f431dbf1373b96a1366a98440426d933",
-          "path": "01kirali_is/03只要刪的夠快,沒人知道我是一隻矮袋鼠.mp3",
+          "path": "01kirali_is/A03只要刪的夠快,沒人知道我是一隻矮袋鼠.mp3",
           "description": {
             "zh": "只要刪的夠快 沒人知道我是一隻矮袋鼠"
           }
         },
         {
           "name": "2138db1f9bf05a7e7564f8dfc280c3a9",
-          "path": "01kirali_is/04我煌基拉利是矮袋鼠喵~.mp3",
+          "path": "01kirali_is/A04我煌基拉利是矮袋鼠喵~.mp3",
           "description": {
             "zh": "我煌基拉利是矮袋鼠喵~"
           }
         },
         {
           "name": "5eb6be7393ef3acb168242b004de9123",
-          "path": "01kirali_is/05超大聲說我是矮袋鼠.mp3",
+          "path": "01kirali_is/A05超大聲說我是矮袋鼠.mp3",
           "description": {
             "zh": "超大聲說我是矮袋鼠"
           }
         },
         {
+          "name": "57de1c77c44e32786a50d969831dc53b",
+          "path": "01kirali_is/A06私はクオッカです.mp3",
+          "description": {
+            "zh": "私はクオッカです"
+          }
+        },
+        {
           "name": "1c00e80820297aab32d4fdd7d7da180d",
-          "path": "01kirali_is/06我是小丑.mp3",
+          "path": "01kirali_is/B01我是小丑.mp3",
           "description": {
             "zh": "我是小丑"
           }
         },
         {
           "name": "46bf1badd8c1bb36514295da590aa4ed",
-          "path": "01kirali_is/07我煌基拉利是臭小丑.mp3",
+          "path": "01kirali_is/B02我煌基拉利是臭小丑.mp3",
           "description": {
             "zh": "我煌基拉利是臭小丑"
           }
         },
         {
           "name": "6c198f200dc9bfa4819d13034141007d",
-          "path": "01kirali_is/08我是笨蛋.mp3",
+          "path": "01kirali_is/C01我是笨蛋.mp3",
           "description": {
             "zh": "我是笨蛋"
           }
         },
         {
           "name": "e3cd253e475eed301cb1d77cb92df834",
-          "path": "01kirali_is/09我是個笨蛋.mp3",
+          "path": "01kirali_is/C02我是個笨蛋.mp3",
           "description": {
             "zh": "我是個笨蛋"
           }
@@ -79,107 +86,107 @@
       "voice_list": [
         {
           "name": "0152cc4159bbb8b2a4039e297728e2c0",
-          "path": "02kirali_my_wife/01_Kirali_5ma13.mp3",
+          "path": "02kirali_my_wife/0101_Kirali_5ma13.mp3",
           "description": {
             "zh": "5ma13次"
           }
         },
         {
           "name": "590c967ce11c4a1d6fb73dd21640ff77",
-          "path": "02kirali_my_wife/02_5ma_88.mp3",
+          "path": "02kirali_my_wife/0102_5ma_88.mp3",
           "description": {
             "zh": "5ma 88"
           }
         },
         {
           "name": "a593db639d61afa64bda676a65053bab",
-          "path": "02kirali_my_wife/03_5ma_meow.mp3",
+          "path": "02kirali_my_wife/0103_5ma_meow.mp3",
           "description": {
             "zh": "5ma meow"
           }
         },
         {
           "name": "61a7694f22ab7a8b277e594a1d0cf32d",
-          "path": "02kirali_my_wife/04_5ma.MP3",
+          "path": "02kirali_my_wife/0104_5ma.MP3",
           "description": {
             "zh": "5ma"
           }
         },
         {
           "name": "382032429089c1b5afeb809cb8fb2f00",
-          "path": "02kirali_my_wife/05_ASMR-5ma.mp3",
+          "path": "02kirali_my_wife/0105_ASMR-5ma.mp3",
           "description": {
             "zh": "ASMR 5ma"
           }
         },
         {
           "name": "aadf43de975cfe8f65f93bb456c30d2b",
-          "path": "02kirali_my_wife/06_kirali_小煌新婚三問.mp3",
+          "path": "02kirali_my_wife/0201_kirali_小煌新婚三問.mp3",
           "description": {
             "zh": "小煌新婚三問"
           }
         },
         {
           "name": "bbf86ab2cf7e00370fff37a5b153582e",
-          "path": "02kirali_my_wife/07_Darling,Would_you_like_dinner_a_bath_or_me_2.MP3",
+          "path": "02kirali_my_wife/0202_Darling,Would_you_like_dinner_a_bath_or_me_2.MP3",
           "description": {
             "zh": "Darling, Would you like dinner a bath or me"
           }
         },
         {
           "name": "c6f8bbe2d5deb6d25105cac546223577",
-          "path": "02kirali_my_wife/08_Good_Morning.mp3",
+          "path": "02kirali_my_wife/0301_Good_Morning.mp3",
           "description": {
             "zh": "Good Morning"
           }
         },
         {
           "name": "58ddec36ac20301e812fc3e696b89d2d",
-          "path": "02kirali_my_wife/09_股摸零(剛睡醒).mp3",
+          "path": "02kirali_my_wife/0302_股摸零(剛睡醒).mp3",
           "description": {
             "zh": "股摸零(剛睡醒)"
           }
         },
         {
           "name": "003b0237cdcd4b7a0f968a67eaf40510",
-          "path": "02kirali_my_wife/10_おはよう_こんばんは_Vocal.mp3",
+          "path": "02kirali_my_wife/0303_おはよう_こんばんは.mp3",
           "description": {
             "zh": "おはよう こんばんは"
           }
         },
         {
           "name": "b55b019b7fda0719287caa43ec83abd6",
-          "path": "02kirali_my_wife/11_sneeze.mp3",
+          "path": "02kirali_my_wife/0401_sneeze.mp3",
           "description": {
             "zh": "sneeze"
           }
         },
         {
           "name": "407538a72c0ceeb05909ac167739f451",
-          "path": "02kirali_my_wife/12_あなた_單軌.MP3.mp3",
+          "path": "02kirali_my_wife/0501_あなた_單軌.MP3.mp3",
           "description": {
             "zh": "あなた 單軌"
           }
         },
         {
           "name": "3fd4d555a4127353a6ab8529afcc1a2b",
-          "path": "02kirali_my_wife/13_旦那様とのラブラブ・ラブソング.mp3",
+          "path": "02kirali_my_wife/0502_旦那様とのラブラブ・ラブソング.mp3",
           "description": {
             "zh": "旦那様とのラブラブ・ラブソング"
           }
         },
         {
           "name": "bc94da282b5830f07482b3d495928098",
-          "path": "02kirali_my_wife/14_我要抱抱.mp3",
+          "path": "02kirali_my_wife/0601_我要抱抱.mp3",
           "description": {
             "zh": "我要抱抱"
           }
         },
         {
           "name": "e16754fb15f55c14dead4d6d431b8454",
-          "path": "02kirali_my_wife/15_真的你們要相信我.mp3",
+          "path": "02kirali_my_wife/0602_真的你們要相信我.mp3",
           "description": {
-            "zh": "真的你們要相信我"
+            "zh": "0602_真的你們要相信我"
           }
         }
       ]
@@ -192,98 +199,98 @@
       "voice_list": [
         {
           "name": "a833da1e58d4ea213430c42a3db96c78",
-          "path": "03kirali_snp/01加油你大得出來的.mp3",
+          "path": "03kirali_snp/A01加油你大得出來的.mp3",
           "description": {
             "zh": "加油你大得出來的"
           }
         },
         {
           "name": "50ba262e0a551f4567180b4b1724317f",
-          "path": "03kirali_snp/02大便.mp3",
+          "path": "03kirali_snp/A02大便.mp3",
           "description": {
             "zh": "大便"
           }
         },
         {
           "name": "de85091219dbd4e9a8a75f8f4d85e45d",
-          "path": "03kirali_snp/03大便抱抱.mp3",
+          "path": "03kirali_snp/A03大便抱抱.mp3",
           "description": {
             "zh": "大便抱抱"
           }
         },
         {
           "name": "ba8b37312a8fb5b7dbaf21307bd435cf",
-          "path": "03kirali_snp/04好臭喔.mp3",
+          "path": "03kirali_snp/B01好臭喔.mp3",
           "description": {
             "zh": "好臭喔"
           }
         },
         {
           "name": "3d9695b12365c75e1579946079b4efaf",
-          "path": "03kirali_snp/05不要走我要吸你的屁屁.mp3",
+          "path": "03kirali_snp/B02不要走我要吸你的屁屁.mp3",
           "description": {
             "zh": "不要走我要吸你的屁屁"
           }
         },
         {
           "name": "bcd9ce24a3031a3feb9aec928004c85c",
-          "path": "03kirali_snp/06你們屁股很臭.mp3",
+          "path": "03kirali_snp/B03你們屁股很臭.mp3",
           "description": {
             "zh": "你們屁股很臭"
           }
         },
         {
           "name": "9576cf8d4616c0c9f922db0f1cffacdd",
-          "path": "03kirali_snp/07放狗屁.mp3",
+          "path": "03kirali_snp/B04放狗屁.mp3",
           "description": {
             "zh": "放狗屁"
           }
         },
         {
           "name": "a534132fed9c2b682f1efdb8c2e46825",
-          "path": "03kirali_snp/08屁眼派對.mp3",
+          "path": "03kirali_snp/B05屁眼派對.mp3",
           "description": {
             "zh": "屁眼派對"
           }
         },
         {
           "name": "88fee9e0d0354211e6058d498e4cb16d",
-          "path": "03kirali_snp/09屁眼派對(完整版).mp3",
+          "path": "03kirali_snp/B06屁眼派對(完整版).mp3",
           "description": {
             "zh": "屁眼派對(完整版)"
           }
         },
         {
           "name": "e8ac1fa4f09870c726361e9621b71602",
-          "path": "03kirali_snp/10妳們腋下臭臭的.mp3",
+          "path": "03kirali_snp/C01妳們腋下臭臭的.mp3",
           "description": {
             "zh": "妳們腋下臭臭的"
           }
         },
         {
           "name": "ad190a74315a98629c159d4e31091f39",
-          "path": "03kirali_snp/11腋下好香.mp3",
+          "path": "03kirali_snp/C02腋下好香.mp3",
           "description": {
             "zh": "腋下好香"
           }
         },
         {
           "name": "b74d4be00d563fa7783b693ec9c298cf",
-          "path": "03kirali_snp/12洗鼻涕給妳們聽.mp3",
+          "path": "03kirali_snp/D01洗鼻涕給妳們聽.mp3",
           "description": {
             "zh": "洗鼻涕給妳們聽"
           }
         },
         {
           "name": "54cf3d9f4080741100f5a3c3569b0d8a",
-          "path": "03kirali_snp/13吵尛.MP3",
+          "path": "03kirali_snp/E01吵尛.MP3",
           "description": {
             "zh": "吵尛"
           }
         },
         {
           "name": "38b0553cb21e830a41fd8048377bcc22",
-          "path": "03kirali_snp/14媽的.mp3",
+          "path": "03kirali_snp/E02媽的.mp3",
           "description": {
             "zh": "媽的"
           }
@@ -848,7 +855,7 @@
           }
         },
         {
-          "name": "872b03e22a6e9a3b4ac982baed5ae852",
+          "name": "02629b0e67104cf9a68b1b2a020ec238",
           "path": "09kirali_bullshit/其實我超常生病.mp3",
           "description": {
             "zh": "其實我超常生病"
@@ -1237,182 +1244,189 @@
       ]
     },
     {
-      "group_name": "12others",
+      "group_name": "others",
       "group_description": {
-        "zh": "其他"
+        "zh": ""
       },
       "voice_list": [
         {
           "name": "0c615112768e37a01d2cf0916cfcbe46",
-          "path": "12others/Love_U_8噗.mp3",
+          "path": "others/Love_U_8噗.mp3",
           "description": {
             "zh": "Love U 8噗"
           }
         },
         {
           "name": "842319cf81d6ce87440ff77ffa25da4b",
-          "path": "12others/R♡~好帥唷.mp3",
+          "path": "others/R♡~好帥唷.mp3",
           "description": {
             "zh": "R♡~好帥唷"
           }
         },
         {
           "name": "fa49ffae2e437fb5e02fed1d7d9fa9e6",
-          "path": "12others/他壞掉了.mp3",
+          "path": "others/他壞掉了.mp3",
           "description": {
             "zh": "他壞掉了"
           }
         },
         {
           "name": "e00b872b8970ea711cc4c0a92d956493",
-          "path": "12others/哈囉小貓咪.mp3",
+          "path": "others/哈囉小貓咪.mp3",
           "description": {
             "zh": "哈囉小貓咪"
           }
         },
         {
-          "name": "3d64a83ab54a7dc006143ffa299be3c4",
-          "path": "12others/基腿對不起1.mp3",
+          "name": "e42e006b92b5ebd71d9c28c418d9ce7e",
+          "path": "others/基腿對不起1.mp3",
           "description": {
             "zh": "基腿對不起1"
           }
         },
         {
-          "name": "6781212eeeb35625f9acca6d1478d6d7",
-          "path": "12others/基腿對不起2.mp3",
+          "name": "37a51470dca89549f1e3706068168f6a",
+          "path": "others/基腿對不起2.mp3",
           "description": {
             "zh": "基腿對不起2"
           }
         },
         {
+          "name": "9cfb5e35d09e092d84842be9d3fa4078",
+          "path": "others/基腿謝謝你nn.mp3",
+          "description": {
+            "zh": "基腿謝謝你nn"
+          }
+        },
+        {
           "name": "0aa927a966b3feb1839e9994244d28e7",
-          "path": "12others/帶著我的小貓咪來了.mp3",
+          "path": "others/帶著我的小貓咪來了.mp3",
           "description": {
             "zh": "帶著我的小貓咪來了"
           }
         },
         {
           "name": "0b535b0f55fb99e1e7ae77723511d583",
-          "path": "12others/怎麼了嗎_什麼都沒有發生阿.mp3",
+          "path": "others/怎麼了嗎_什麼都沒有發生阿.mp3",
           "description": {
             "zh": "怎麼了嗎 什麼都沒有發生阿"
           }
         },
         {
           "name": "65f9fbfc0e6629d2d3c5451fae013824",
-          "path": "12others/怎麼還不走_有什麼問題.mp3",
+          "path": "others/怎麼還不走_有什麼問題.mp3",
           "description": {
             "zh": "怎麼還不走 有什麼問題"
           }
         },
         {
           "name": "edf4c1823d29e47a345655b0fb58c6e4",
-          "path": "12others/情勒.mp3",
+          "path": "others/情勒.mp3",
           "description": {
             "zh": "情勒"
           }
         },
         {
           "name": "981cfd38291253706c75007e39c8fa8a",
-          "path": "12others/我不相信.mp3",
+          "path": "others/我不相信.mp3",
           "description": {
             "zh": "我不相信"
           }
         },
         {
           "name": "c2ea862cabe15babe80a7a0d2c368efb",
-          "path": "12others/我也沒辦法啊.mp3",
+          "path": "others/我也沒辦法啊.mp3",
           "description": {
             "zh": "我也沒辦法啊"
           }
         },
         {
           "name": "2dc4eaf7957e4143f081091d7f105259",
-          "path": "12others/我做不到.mp3",
+          "path": "others/我做不到.mp3",
           "description": {
             "zh": "我做不到"
           }
         },
         {
           "name": "683e76f126cdce514c077cba21b2376f",
-          "path": "12others/我哭了.mp3",
+          "path": "others/我哭了.mp3",
           "description": {
             "zh": "我哭了"
           }
         },
         {
           "name": "a6684774b9c09a80ea264ab2f91b5e7e",
-          "path": "12others/我好興奮.mp3",
+          "path": "others/我好興奮.mp3",
           "description": {
             "zh": "我好興奮"
           }
         },
         {
           "name": "f6d79e096483dbeb0437312082af3a3e",
-          "path": "12others/我想想.mp3",
+          "path": "others/我想想.mp3",
           "description": {
             "zh": "我想想"
           }
         },
         {
           "name": "5994c0ff569ff3f9da0c0fffc6eca176",
-          "path": "12others/我活該.mp3",
+          "path": "others/我活該.mp3",
           "description": {
             "zh": "我活該"
           }
         },
         {
           "name": "e4df3a0973bba869e4dc6f6dfa83ac83",
-          "path": "12others/我要不行了.mp3",
+          "path": "others/我要不行了.mp3",
           "description": {
             "zh": "我要不行了"
           }
         },
         {
           "name": "c1d3cd37299c08c9fb140560caa1d9f7",
-          "path": "12others/我要去考試了.mp3",
+          "path": "others/我要去考試了.mp3",
           "description": {
             "zh": "我要去考試了"
           }
         },
         {
           "name": "c7d4a52a0c12759fe099451d5a158324",
-          "path": "12others/我要吹直笛.mp3",
+          "path": "others/我要吹直笛.mp3",
           "description": {
             "zh": "我要吹直笛"
           }
         },
         {
           "name": "ea5597b8228fced8a00c54d81f958365",
-          "path": "12others/我要死了.mp3",
+          "path": "others/我要死了.mp3",
           "description": {
             "zh": "我要死了"
           }
         },
         {
           "name": "f97fc4e50177f550736ea6e1f5500d2d",
-          "path": "12others/我鼻要.mp3",
+          "path": "others/我鼻要.mp3",
           "description": {
             "zh": "我鼻要"
           }
         },
         {
           "name": "99b3a9bd5e732d3adb22e359440947aa",
-          "path": "12others/親爛.mp3",
+          "path": "others/親爛.mp3",
           "description": {
             "zh": "親爛"
           }
         },
         {
           "name": "50d3c53facf132cd0b4a9085db9b4696",
-          "path": "12others/這畫面是可以播的嗎.mp3",
+          "path": "others/這畫面是可以播的嗎.mp3",
           "description": {
             "zh": "這畫面是可以播的嗎"
           }
         },
         {
           "name": "40d8f3844c445d9aa690161fb9be481e",
-          "path": "12others/都是個什麼意思.mp3",
+          "path": "others/都是個什麼意思.mp3",
           "description": {
             "zh": "都是個什麼意思"
           }
