@@ -970,6 +970,13 @@
           }
         },
         {
+          "name": "ccddd0f5a4a6e68afc359f089169abb1",
+          "path": "05singing/超基婆.mp3",
+          "description": {
+            "zh": "超基婆"
+          }
+        },
+        {
           "name": "111663a0184e0fc29a5faea6f6f8c2c8",
           "path": "05singing/阿基op.mp3",
           "description": {
@@ -991,6 +998,13 @@
         "zh": "台詞 - 單詞"
       },
       "voice_list": [
+        {
+          "name": "fbd7e81316255bc84981129c0156d35d",
+          "path": "06lyrics_single_word/600.mp3",
+          "description": {
+            "zh": "600"
+          }
+        },
         {
           "name": "4d896cc4eec2cf860f3f88a329c4ab43",
           "path": "06lyrics_single_word/dude.mp3",
@@ -1066,13 +1080,6 @@
           "path": "06lyrics_single_word/哭阿1.mp3",
           "description": {
             "zh": "哭阿"
-          }
-        },
-        {
-          "name": "e3b7022c66920a4a7531afe58a27d647",
-          "path": "06lyrics_single_word/對不起.mp3",
-          "description": {
-            "zh": "對不起"
           }
         },
         {
@@ -1412,7 +1419,7 @@
           "name": "958ad8270c010123b94bfcb15abebc09",
           "path": "10kirali_bullshit/you_want_to_play_lets_play.mp3",
           "description": {
-            "zh": "You want to play. Lets_play."
+            "zh": "You want to play. Lets play."
           }
         },
         {
@@ -1560,6 +1567,13 @@
           "path": "10kirali_bullshit/媽呀我的頭那麼小一顆.mp3",
           "description": {
             "zh": "媽呀我的頭那麼小一顆"
+          }
+        },
+        {
+          "name": "e3b7022c66920a4a7531afe58a27d647",
+          "path": "10kirali_bullshit/對不起.mp3",
+          "description": {
+            "zh": "對不起"
           }
         },
         {
@@ -2017,14 +2031,14 @@
           "name": "d5879ec7076eaa136374e4aa7d4c0c09",
           "path": "13kirali_scream/完蛋了(破).mp3",
           "description": {
-            "zh": "完蛋了(破)"
+            "zh": "完蛋了"
           }
         },
         {
           "name": "32c56a183512102d0871d3b58466e735",
           "path": "13kirali_scream/尊督假督(破.mp3",
           "description": {
-            "zh": "尊督假督(破"
+            "zh": "尊督假督"
           }
         },
         {
@@ -2108,7 +2122,7 @@
           "name": "2c422e0053d30d0c705ca1b3028dee71",
           "path": "13kirali_scream/屁股蛋(破.mp3",
           "description": {
-            "zh": "屁股蛋(破"
+            "zh": "屁股蛋"
           }
         },
         {
@@ -2207,7 +2221,7 @@
           "name": "34eb22e80cc7c4735f989c2da8e6f9f4",
           "path": "14kirali_greentea/請問是基腿葛隔嗎.mp3",
           "description": {
-            "zh": "請問是基腿葛隔嗎"
+            "zh": "請問是基腿葛格嗎"
           }
         }
       ]
@@ -2218,13 +2232,6 @@
         "zh": "其他"
       },
       "voice_list": [
-        {
-          "name": "fbd7e81316255bc84981129c0156d35d",
-          "path": "others/600.mp3",
-          "description": {
-            "zh": "600"
-          }
-        },
         {
           "name": "56c010549eb3f961b3f9373cf3d232ab",
           "path": "others/hello_guys_hahaha.mp3",
